@@ -1,2 +1,2 @@
-# NSWI041-intro-to-sw-engineering
+# NSWI041 Introduction to Software Engineering
 Team Schedules
